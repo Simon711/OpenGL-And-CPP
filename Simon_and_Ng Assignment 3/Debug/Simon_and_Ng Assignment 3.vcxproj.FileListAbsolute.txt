@@ -1,0 +1,3 @@
+C:\Users\acer\source\repos\Simon_and_Ng Assignment 3\Debug\Simon_and_Ng Assignment 3.exe
+C:\Users\acer\Desktop\VS Community\Simon_and_Ng Assignment 3\Debug\Simon_and_Ng Assignment 3.exe
+C:\Users\acer\Desktop\OpenGL C++\Simon_and_Ng Assignment 3\Debug\Simon_and_Ng Assignment 3.exe

@@ -1,0 +1,2 @@
+C:\Users\acer\Desktop\Play Sound\Debug\Play Sound.exe
+C:\Users\acer\Desktop\OpenGL C++\camera, text, sound\Play Sound\Debug\Play Sound.exe

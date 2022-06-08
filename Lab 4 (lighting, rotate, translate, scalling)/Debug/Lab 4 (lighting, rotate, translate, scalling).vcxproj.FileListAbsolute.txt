@@ -1,0 +1,1 @@
+C:\Users\acer\Desktop\OpenGL C++\Lab 4 (lighting, rotate, translate, scalling)\Debug\Lab 4 (lighting, rotate, translate, scalling).exe
